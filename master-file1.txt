@@ -1,0 +1,2 @@
+This is master-file1.txt
+This file was created in master branch
